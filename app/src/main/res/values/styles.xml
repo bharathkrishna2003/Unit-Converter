@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Define the main theme for the app -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:buttonStyle">@style/CustomButton</item>
+    </style>
+
+    <!-- Define a custom button style -->
+    <style name="CustomButton">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string-array name="unit_options">
+        <item>Length: Meters to Kilometers</item>
+        <item>Length: Kilometers to Meters</item>
+        <item>Length: Feet to Meters</item>
+        <item>Length: Meters to Feet</item>
+        <item>Weight: Grams to Kilograms</item>
+        <item>Weight: Kilograms to Grams</item>
+        <item>Weight: Pounds to Kilograms</item>
+        <item>Weight: Kilograms to Pounds</item>
+    </string-array>
+</resources>
